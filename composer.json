@@ -1,0 +1,14 @@
+{
+    "name": "aufccs/ipt10-lab6",
+    "description": "A simple PHP project using Composer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aufccs\\Ipt10Lab6\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^3.7"
+    }
+}
